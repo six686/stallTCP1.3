@@ -59,7 +59,7 @@
 *   **Worker / Pages 部署 (推荐)**：请使用 **`_worker.js`** 代码。
     *   *UI 特效：高级毛玻璃风格*
     *   *新增特性：支持 D1 数据库高速读写、后台动态配置、强制安全登录*
-*   **Snippets 部署**：请使用 **`snippets.js`** 代码。 【也支持worker/pages部署】
+*   **Snippets 部署**：请使用 **`snippets.js`** 代码。 【也支持worker部署】
     *   *UI 特效：紫色渐变风格*
 
 ---
